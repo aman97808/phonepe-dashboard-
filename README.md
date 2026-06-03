@@ -132,7 +132,6 @@ Bills & Recharge Categories:
 
 - Data Cleaning
 - Data Transformation
-- Dashboard Development
 - Data Visualization
 - KPI Creation
 - DAX Measures
@@ -144,6 +143,7 @@ Bills & Recharge Categories:
 ## Dashboard Screenshots
 
 https://github.com/aman97808/phonepe-dashboard-/blob/main/phonepe_user.pbit
+- Dashboard Development<img width="1215" height="679" alt="phonepe_user home page" src="https://github.com/user-attachments/assets/54344b53-49ab-4e9d-8112-62c8c269fc45" />
 
 ---
 
